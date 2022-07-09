@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Algo_todo/static/css/main.0b139c16.css",
+    "main.js": "/Algo_todo/static/js/main.c59b40b8.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Algo_todo/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Algo_todo/index.html",
+    "main.0b139c16.css.map": "/Algo_todo/static/css/main.0b139c16.css.map",
+    "main.c59b40b8.js.map": "/Algo_todo/static/js/main.c59b40b8.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Algo_todo/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b139c16.css",
+    "static/js/main.c59b40b8.js"
+  ]
+}
